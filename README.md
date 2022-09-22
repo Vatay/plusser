@@ -1,16 +1,7 @@
-# calculate_game
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="center">Математична гра Додаватор</h3>
+<h4>В ній треба вирішувати завдання з додавання. Є 3 рівня складності: одно-, дво- та триціфрові числа. <br> Історія кращих результатів зберігається локально за допомогою shared_preferences</h4>
+<div class="flex">
+    <img src="https://github.com/Vatay/plusser/blob/dffc8fa1538e2160a69c4f441ff87b6d431c42fb/readme/1.png" alt="" width="280">
+    <img src="https://github.com/Vatay/plusser/blob/dffc8fa1538e2160a69c4f441ff87b6d431c42fb/readme/2.png" alt="" width="280">
+    <img src="https://github.com/Vatay/plusser/blob/dffc8fa1538e2160a69c4f441ff87b6d431c42fb/readme/3.png" alt="" width="280">
+</div>
